@@ -1,0 +1,7 @@
+{
+    "editor.tabSize": 5,
+    "gitProjectManager.displayProjectPath": true,
+    "gitProjectManager.openInNewWindow": true,
+    "gitProjectManager.storeRepositoriesBetweenSessions": true,
+    "gitProjectManager.warnIfFolderNotFound": true
+}

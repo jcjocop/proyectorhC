@@ -1,0 +1,72 @@
+{
+  "-LapcSkX9gh0_rhx75Qr" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "25/03/2019",
+    "hora" : "10:14:52",
+    "usuario" : "Juan Carlos Jocop",
+    "thumbnail":"/vuejspruebas/ejemplos/fechas/ffoto01.png"
+  },
+  "-LapcTgnhTvwFXM4vBhU" : {
+    "accion" : "Consultó datos de participante diez y seis",
+    "fecha" : "25/03/2019",
+    "hora" : "10:14:56",
+    "usuario" : "Juan Carlos Jocop",
+    "thumbnail":"/vuejspruebas/ejemplos/fechas/ffoto02.png"
+  },
+  "-LapcUeBbSFnC3qow4e5" : {
+    "accion" : "Eliminó el CV de participante diez y seis",
+    "fecha" : "25/03/2019",
+    "hora" : "10:14:59",
+    "usuario" : "Juan Carlos Jocop",
+    "thumbnail":"/vuejspruebas/ejemplos/fechas/ffoto03.png"
+  },
+  "-LapcVInGgA1uQt_Qb7w" : {
+    "accion" : "Consultó datos de la quince",
+    "fecha" : "25/03/2019",
+    "hora" : "10:15:02",
+    "usuario" : "Juan Carlos Jocop",
+    "thumbnail":"/vuejspruebas/ejemplos/fechas/ffoto04.png"
+  },
+  "-LapcVqqS3u2lPHi6IEI" : {
+    "accion" : "Eliminó el CV de la quince",
+    "fecha" : "25/03/2019",
+    "hora" : "10:15:04",
+    "usuario" : "Juan Carlos Jocop",
+    "thumbnail":"/vuejspruebas/ejemplos/fechas/ffoto05.png"
+  },
+  "-LapcW9-7DlufPtSvOt6" : {
+    "accion" : "Consultó datos de la catorce",
+    "fecha" : "25/03/2019",
+    "hora" : "10:15:06",
+    "usuario" : "Juan Carlos Jocop",
+    "thumbnail":"/vuejspruebas/ejemplos/fechas/ffoto06.png"
+  },
+  "-LapcWdqwzHvBbrZ1l1d" : {
+    "accion" : "Eliminó el CV de la catorce",
+    "fecha" : "25/03/2019",
+    "hora" : "10:15:08",
+    "usuario" : "Juan Carlos Jocop",
+    "thumbnail":"/vuejspruebas/ejemplos/fechas/ffoto07.png"
+  },
+  "-Laq1mdFAMYO1e3-JoIQ" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:09:53",
+    "usuario" : "Juan Carlos Jocop",
+    "thumbnail":"/vuejspruebas/ejemplos/fechas/ffoto08.png"
+  },
+  "-Laq1n0f0Mmr5XrPCRmd" : {
+    "accion" : "Seleccionó la opción de Ingreso",
+    "fecha" : "25/03/2019",
+    "hora" : "12:09:54",
+    "usuario" : "Juan Carlos Jocop",
+    "thumbnail":"/vuejspruebas/ejemplos/fechas/ffoto09.png"
+  },
+  "-Laq1tr_djOgzQKZtmWz" : {
+    "accion" : "Grabó el CV de catorce",
+    "fecha" : "25/03/2019",
+    "hora" : "12:10:22",
+    "usuario" : "Juan Carlos Jocop",
+    "thumbnail":"/vuejspruebas/ejemplos/fechas/ffoto10.png"
+  }
+}

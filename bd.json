@@ -1,0 +1,1454 @@
+[
+  "-LapcSkX9gh0_rhx75Qr" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "25/03/2019",
+    "hora" : "10:14:52",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LapcTgnhTvwFXM4vBhU" : {
+    "accion" : "Consultó datos de participante diez y seis",
+    "fecha" : "25/03/2019",
+    "hora" : "10:14:56",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LapcUeBbSFnC3qow4e5" : {
+    "accion" : "Eliminó el CV de participante diez y seis",
+    "fecha" : "25/03/2019",
+    "hora" : "10:14:59",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LapcVInGgA1uQt_Qb7w" : {
+    "accion" : "Consultó datos de la quince",
+    "fecha" : "25/03/2019",
+    "hora" : "10:15:02",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LapcVqqS3u2lPHi6IEI" : {
+    "accion" : "Eliminó el CV de la quince",
+    "fecha" : "25/03/2019",
+    "hora" : "10:15:04",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LapcW9-7DlufPtSvOt6" : {
+    "accion" : "Consultó datos de la catorce",
+    "fecha" : "25/03/2019",
+    "hora" : "10:15:06",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LapcWdqwzHvBbrZ1l1d" : {
+    "accion" : "Eliminó el CV de la catorce",
+    "fecha" : "25/03/2019",
+    "hora" : "10:15:08",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Laq1mdFAMYO1e3-JoIQ" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:09:53",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Laq1n0f0Mmr5XrPCRmd" : {
+    "accion" : "Seleccionó la opción de Ingreso",
+    "fecha" : "25/03/2019",
+    "hora" : "12:09:54",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Laq1tr_djOgzQKZtmWz" : {
+    "accion" : "Grabó el CV de catorce",
+    "fecha" : "25/03/2019",
+    "hora" : "12:10:22",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Laq23u73DHP2zxE5PZg" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:11:07",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Laq5UAlFRM1pTSJHtnl" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:26:01",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Laq64vvrZ1KI2KY1MKN" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:28:40",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Laq6FdqXEsbSGt4_KqC" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:29:24",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Laq6WIWI5T_deRG62YF" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:30:32",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Laq6vS6NigCfqc6PsEg" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:32:19",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Laq7Pfu41rzNjQ_DM_k" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:34:27",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Laq7_xt6Judy_lXA3Be" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:35:14",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Laq81xkuGJQVUfHS8a2" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:37:12",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Laq8ehF3tGtyzfSzI4t" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:39:55",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Laq8nbqHtSR5SI_Jakt" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:40:32",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Laq8v6kmRYYRxB3mOFN" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:41:02",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Laq98uhPbM4yKEaYyW0" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:42:03",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Laq9SHiVSWlZy38EARv" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:43:22",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaqA6X0D31R42_-TQD2" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:46:15",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaqAjft-QtVJYoTRmOq" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:49:00",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaqApxLH1UeNPYswCuL" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:49:25",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaqAqeBIcy2DEWGxcdB" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:49:28",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaqAqvaxtIolfOi3p47" : {
+    "accion" : "Panel de la gráfica Donut para [ Puesto al que aplica ]",
+    "fecha" : "25/03/2019",
+    "hora" : "12:49:29",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaqB59bzyWEVusjVV24" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:50:32",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaqB5TALdLl_aOnKDG_" : {
+    "accion" : "Panel de la gráfica Donut para [ Puesto al que aplica ]",
+    "fecha" : "25/03/2019",
+    "hora" : "12:50:33",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaqBAjIkLUrtVcZmjf6" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:50:55",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaqBBCgj1py6ai5oChO" : {
+    "accion" : "Panel de la gráfica Donut para [ Puesto al que aplica ]",
+    "fecha" : "25/03/2019",
+    "hora" : "12:50:57",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaqBCc-mbgcZ4gEBCTL" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:51:02",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaqBD8_5Wspi62c7n2P" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:51:05",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaqBXKuGUvbIE9kxQFU" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:52:27",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaqBXV06DqKaAyxZ2s2" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "25/03/2019",
+    "hora" : "12:52:28",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaqBXjduyINiB7t_aLZ" : {
+    "accion" : "Panel de la gráfica Donut para [ Puesto al que aplica ]",
+    "fecha" : "25/03/2019",
+    "hora" : "12:52:29",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaqBng5zTX7gZYOjmdt" : {
+    "accion" : "Tab de Gráficas de Estado Civil ",
+    "fecha" : "25/03/2019",
+    "hora" : "12:53:38",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaqC122GBQsZ51eGfgX" : {
+    "accion" : "Tab de Gráficas para fechas de aplicación",
+    "fecha" : "25/03/2019",
+    "hora" : "12:54:37",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaqC1KxirULefx19Hbr" : {
+    "accion" : "Tab de Gráficas de Puestos al que aplican",
+    "fecha" : "25/03/2019",
+    "hora" : "12:54:38",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaqC1Szah5_t3jxCW15" : {
+    "accion" : "Tab de Gráficas de Profesiones",
+    "fecha" : "25/03/2019",
+    "hora" : "12:54:39",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaqC1bT8o7JMlAMLH9k" : {
+    "accion" : "Tab de Gráficas de Estado Civil ",
+    "fecha" : "25/03/2019",
+    "hora" : "12:54:39",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaqC1rlRyn2aGUPYO8D" : {
+    "accion" : "Panel de la gráfica de Barras normal para [ Estado Civil agrupado por Sexo ]",
+    "fecha" : "25/03/2019",
+    "hora" : "12:54:40",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaqC2A94g1SbZPL1GRi" : {
+    "accion" : "Panel de la gráfica de Barras apiladas para [ Estado Civil apilado por Sexo ]",
+    "fecha" : "25/03/2019",
+    "hora" : "12:54:42",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LauB9EkKBtnBsPJ1qTu" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "7:29:18",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LauBAUs66A-RuA3ryyC" : {
+    "accion" : "Seleccionó la opción de Ingreso",
+    "fecha" : "26/03/2019",
+    "hora" : "7:29:23",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LauBB3AzTSnGpGdYCte" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "7:29:25",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LauBCfXs-i89IIKHbGc" : {
+    "accion" : "Consultó datos de catorce",
+    "fecha" : "26/03/2019",
+    "hora" : "7:29:32",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LauBDK0P60u4DnUwc8A" : {
+    "accion" : "Eliminó el CV de catorce",
+    "fecha" : "26/03/2019",
+    "hora" : "7:29:35",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LauBEVZgTRRN-p37f8Z" : {
+    "accion" : "Seleccionó la opción de Ingreso",
+    "fecha" : "26/03/2019",
+    "hora" : "7:29:39",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LauD0_26vnfBRUqlB8v" : {
+    "accion" : "Grabó el CV de catorce",
+    "fecha" : "26/03/2019",
+    "hora" : "7:37:26",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LauFXATdheLCxjWm_Ur" : {
+    "accion" : "Grabó el CV de catorce",
+    "fecha" : "26/03/2019",
+    "hora" : "7:48:24",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LauL4bL7zlBjd7IM5pT" : {
+    "accion" : "Grabó el CV de catorce",
+    "fecha" : "26/03/2019",
+    "hora" : "8:12:40",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LauM5NsHlHWNJjb2jfu" : {
+    "accion" : "Grabó el CV de catorce",
+    "fecha" : "26/03/2019",
+    "hora" : "8:17:06",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Lav8c-F3PLFs5R65h2I" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "11:57:50",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Lav8e_dFKoiLaQWavPE" : {
+    "accion" : "Seleccionó la opción de Ingreso",
+    "fecha" : "26/03/2019",
+    "hora" : "11:58:01",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavYPvhJFJcGZsXbDrN" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "13:50:32",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavYQTaobGj_J91JkCL" : {
+    "accion" : "Consultó datos de Jorge Ernesto Rodriguez Funes",
+    "fecha" : "26/03/2019",
+    "hora" : "13:50:35",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavYQlduclW_LN2pGPi" : {
+    "accion" : "Consultó datos de Luz del Milagro Fernández Gonzalez",
+    "fecha" : "26/03/2019",
+    "hora" : "13:50:36",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavYR1faC9VnSrfwEMg" : {
+    "accion" : "Consultó datos de Mario René Calderón Fuentes",
+    "fecha" : "26/03/2019",
+    "hora" : "13:50:37",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavYRHGNBHERMC3Uvvx" : {
+    "accion" : "Consultó datos de Ingrid María Recinos Acajabón",
+    "fecha" : "26/03/2019",
+    "hora" : "13:50:38",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavYS0ovLAmIYyQF0oY" : {
+    "accion" : "Consultó datos de Karla Sofía Pérez Sánchez",
+    "fecha" : "26/03/2019",
+    "hora" : "13:50:41",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavYSrhP3EA_MamVXUm" : {
+    "accion" : "Consultó datos de Ingrid María Recinos Acajabón",
+    "fecha" : "26/03/2019",
+    "hora" : "13:50:45",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavYUFj8nRTgggKOeOo" : {
+    "accion" : "Consultó datos de Carlos Manuel Pedroza Méndez",
+    "fecha" : "26/03/2019",
+    "hora" : "13:50:50",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavYUguS8Wzol_i81LE" : {
+    "accion" : "Consultó datos de Lucía Lucrecia Hernández Perdómo",
+    "fecha" : "26/03/2019",
+    "hora" : "13:50:52",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavYVBnQEYPmFhP-Rsi" : {
+    "accion" : "Consultó datos de Jorge Mario Cifuentes Aquino",
+    "fecha" : "26/03/2019",
+    "hora" : "13:50:54",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavYVwKudr-6fdTPQE5" : {
+    "accion" : "Consultó datos de Rodrigo Paúl Gutierrez Morales",
+    "fecha" : "26/03/2019",
+    "hora" : "13:50:57",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavYWRItaRI4OEbohTz" : {
+    "accion" : "Consultó datos de Mario Enrique Sosa Higueros",
+    "fecha" : "26/03/2019",
+    "hora" : "13:50:59",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavYWqHhr78XJ8ufeb3" : {
+    "accion" : "Consultó datos de Mario Enrique Sosa Higueros",
+    "fecha" : "26/03/2019",
+    "hora" : "13:51:01",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavYXq_BaMmRQkNL5f4" : {
+    "accion" : "Consultó datos de Hilda Lorena Castillo Lopez",
+    "fecha" : "26/03/2019",
+    "hora" : "13:51:05",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavYYNxOt1hevN20iA5" : {
+    "accion" : "Consultó datos de Eva María Londoño Figueroa",
+    "fecha" : "26/03/2019",
+    "hora" : "13:51:07",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavYYnd7yIdEmjmuXhX" : {
+    "accion" : "Consultó datos de Pedro Luis Armendaris",
+    "fecha" : "26/03/2019",
+    "hora" : "13:51:09",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavYZoZLfprTtR6iT8I" : {
+    "accion" : "Consultó datos de Pedro Luis Armendaris",
+    "fecha" : "26/03/2019",
+    "hora" : "13:51:13",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavYixfWETE6dI4yo84" : {
+    "accion" : "Consultó datos de Eva María Londoño Figueroa",
+    "fecha" : "26/03/2019",
+    "hora" : "13:51:55",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavYjiY2agX4mfTmQ4c" : {
+    "accion" : "Consultó datos de Pedro Luis Armendaris",
+    "fecha" : "26/03/2019",
+    "hora" : "13:51:58",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavYkQrlZtd5f3Jd9IJ" : {
+    "accion" : "Seleccionó la opción de Ingreso",
+    "fecha" : "26/03/2019",
+    "hora" : "13:52:01",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavbacAlKaHNrxCgolA" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "14:08:49",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavbbKQehThAwqGL0fo" : {
+    "accion" : "Seleccionó la opción de Ingreso",
+    "fecha" : "26/03/2019",
+    "hora" : "14:08:52",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavcMckytpESE4u5j2u" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "14:12:10",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavcNPvdTOMlBaVmr3q" : {
+    "accion" : "Consultó datos de catorce",
+    "fecha" : "26/03/2019",
+    "hora" : "14:12:13",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavcOLdoab2pvj7i9Zb" : {
+    "accion" : "Consultó el CV de catorce",
+    "fecha" : "26/03/2019",
+    "hora" : "14:12:17",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavcQ2J-KZ0xaDdp0GF" : {
+    "accion" : "Seleccionó la opción de Ingreso",
+    "fecha" : "26/03/2019",
+    "hora" : "14:12:24",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Lavf__rVOE9WLJEh0jT" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "14:26:13",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavfaU4ROPokP3HX20B" : {
+    "accion" : "Seleccionó la opción de Ingreso",
+    "fecha" : "26/03/2019",
+    "hora" : "14:26:17",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Lavfjeg0_12O-7F8X5R" : {
+    "accion" : "Grabó el CV de la quince",
+    "fecha" : "26/03/2019",
+    "hora" : "14:26:55",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavrW9W8i7Ps9Jgg2qw" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "15:18:21",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavrW_GE7oc6xDuytZf" : {
+    "accion" : "Seleccionó la opción de Ingreso",
+    "fecha" : "26/03/2019",
+    "hora" : "15:18:23",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavrbfEXcuX1B2IUVdf" : {
+    "accion" : "Grabó el CV de la diez y seis",
+    "fecha" : "26/03/2019",
+    "hora" : "15:18:48",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavreAJ7eoOzGdPzxtC" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "15:18:58",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavrezQvCHUvdaTY48K" : {
+    "accion" : "Consultó datos de la diez y seis",
+    "fecha" : "26/03/2019",
+    "hora" : "15:19:01",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavuPe4Q2mULUJEXaAl" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "15:31:01",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavuQ_GrQeZAiwBhEKD" : {
+    "accion" : "Seleccionó la opción de Ingreso",
+    "fecha" : "26/03/2019",
+    "hora" : "15:31:04",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Lavua3-uzo-SQHtIAy6" : {
+    "accion" : "Grabó el CV de la diez y siete",
+    "fecha" : "26/03/2019",
+    "hora" : "15:31:47",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavvHa0qDsXouEZ3RsW" : {
+    "accion" : "Grabó el CV de la diez y ocho",
+    "fecha" : "26/03/2019",
+    "hora" : "15:34:50",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LavzTRJaka-cbsXx2g3" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "15:53:07",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law4crKLcWdjwlDfOfS" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "26/03/2019",
+    "hora" : "16:20:02",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law4dAfbNy0ej1Z54LG" : {
+    "accion" : "Tab de Gráficas de Puestos al que aplican",
+    "fecha" : "26/03/2019",
+    "hora" : "16:20:04",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law4d_ShdsziTqlqNeb" : {
+    "accion" : "Panel de la gráfica Donut para [ Puesto al que aplica ]",
+    "fecha" : "26/03/2019",
+    "hora" : "16:20:05",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law4fnTJWGgfGthj-zW" : {
+    "accion" : "Tab de Gráficas de Profesiones",
+    "fecha" : "26/03/2019",
+    "hora" : "16:20:14",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law4gHGJKR82sPrFB9L" : {
+    "accion" : "Panel de la gráfica Pie para [ Profesiones ]",
+    "fecha" : "26/03/2019",
+    "hora" : "16:20:16",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law4hDAA2-i091votwF" : {
+    "accion" : "Tab de Gráficas para fechas de aplicación",
+    "fecha" : "26/03/2019",
+    "hora" : "16:20:20",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law4hYwEUeIKMHJAVag" : {
+    "accion" : "Panel de la gráfica de líneas para [ Fechas de aplicación ]",
+    "fecha" : "26/03/2019",
+    "hora" : "16:20:22",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law4hm08444GdUBtJk6" : {
+    "accion" : "Tab de Gráficas de Estado Civil ",
+    "fecha" : "26/03/2019",
+    "hora" : "16:20:23",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law4i1fD__mKfvdc5EL" : {
+    "accion" : "Panel de la gráfica de Barras normal para [ Estado Civil agrupado por Sexo ]",
+    "fecha" : "26/03/2019",
+    "hora" : "16:20:24",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law4iCOGSY8IZ1RaeUC" : {
+    "accion" : "Panel de la gráfica de Barras apiladas para [ Estado Civil apilado por Sexo ]",
+    "fecha" : "26/03/2019",
+    "hora" : "16:20:24",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law4iNGnZaWpWYCUpUr" : {
+    "accion" : "Panel de la gráfica 3D para [ Estados Civiles agrupados por Sexo ]",
+    "fecha" : "26/03/2019",
+    "hora" : "16:20:25",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law89oVmwEMxlE0gqIZ" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "16:35:28",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law8A4rfBw6iKc3uKo5" : {
+    "accion" : "Consultó datos de Jorge Ernesto Rodriguez Funes",
+    "fecha" : "26/03/2019",
+    "hora" : "16:35:29",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law8AOjpjEQuzM6l7on" : {
+    "accion" : "Consultó el CV de Jorge Ernesto Rodriguez Funes",
+    "fecha" : "26/03/2019",
+    "hora" : "16:35:30",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law8BXV8cj-DMtGESub" : {
+    "accion" : "Consultó datos de Luz del Milagro Fernández Gonzalez",
+    "fecha" : "26/03/2019",
+    "hora" : "16:35:35",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law8Bo87G775RpJQKd3" : {
+    "accion" : "Consultó el CV de Luz del Milagro Fernández Gonzalez",
+    "fecha" : "26/03/2019",
+    "hora" : "16:35:36",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law8EcWAxdjJgLfdvFb" : {
+    "accion" : "Consultó datos de Jorge Ernesto Rodriguez Funes",
+    "fecha" : "26/03/2019",
+    "hora" : "16:35:48",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law8Ey6gMYUeJa2r_lE" : {
+    "accion" : "Consultó el CV de Jorge Ernesto Rodriguez Funes",
+    "fecha" : "26/03/2019",
+    "hora" : "16:35:49",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law8KNhVitAE7hP7L1D" : {
+    "accion" : "Consultó datos de Mario René Calderón Fuentes",
+    "fecha" : "26/03/2019",
+    "hora" : "16:36:11",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law8Kn7T-C_g5-NDp5d" : {
+    "accion" : "Consultó el CV de Mario René Calderón Fuentes",
+    "fecha" : "26/03/2019",
+    "hora" : "16:36:13",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law8PEIRMD90Cvbqddw" : {
+    "accion" : "Consultó datos de Jorge Ernesto Rodriguez Funes",
+    "fecha" : "26/03/2019",
+    "hora" : "16:36:31",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law8PhxMPgHDQog1Xh-" : {
+    "accion" : "Consultó datos de Mario René Calderón Fuentes",
+    "fecha" : "26/03/2019",
+    "hora" : "16:36:33",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law8Q0UOXvK_fy4woV3" : {
+    "accion" : "Consultó el CV de Mario René Calderón Fuentes",
+    "fecha" : "26/03/2019",
+    "hora" : "16:36:34",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law8R6o_bAnBbQQDfsn" : {
+    "accion" : "Consultó datos de Karla Sofía Pérez Sánchez",
+    "fecha" : "26/03/2019",
+    "hora" : "16:36:39",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Law8RbsZE-9nFO-R9ph" : {
+    "accion" : "Consultó el CV de Karla Sofía Pérez Sánchez",
+    "fecha" : "26/03/2019",
+    "hora" : "16:36:41",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawB9wCDdD6TUKSIUb8" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "16:48:35",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawCLvJRKzUfqUEjNrO" : {
+    "accion" : "Consultó datos de Jorge Ernesto Rodriguez Funes",
+    "fecha" : "26/03/2019",
+    "hora" : "16:53:46",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawCMBUcC6vZ9Q4e4bI" : {
+    "accion" : "Consultó datos de Luz del Milagro Fernández Gonzalez",
+    "fecha" : "26/03/2019",
+    "hora" : "16:53:47",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawCMNdn_q9LFvhGOSn" : {
+    "accion" : "Consultó datos de Mario René Calderón Fuentes",
+    "fecha" : "26/03/2019",
+    "hora" : "16:53:48",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawCMYZcwhcG0Op1q4s" : {
+    "accion" : "Consultó datos de Ingrid María Recinos Acajabón",
+    "fecha" : "26/03/2019",
+    "hora" : "16:53:49",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawCMshkv7r7q4X0S9w" : {
+    "accion" : "Consultó datos de Karla Sofía Pérez Sánchez",
+    "fecha" : "26/03/2019",
+    "hora" : "16:53:50",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawCNy8N1pG29Irx54j" : {
+    "accion" : "Consultó datos de Jorge Ernesto Rodriguez Funes",
+    "fecha" : "26/03/2019",
+    "hora" : "16:53:54",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawCPGaaCZow2gVMufF" : {
+    "accion" : "Consultó el CV de Jorge Ernesto Rodriguez Funes",
+    "fecha" : "26/03/2019",
+    "hora" : "16:54:00",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawCQC-v2gH66zBg0Nl" : {
+    "accion" : "Consultó datos de Carlos Manuel Pedroza Méndez",
+    "fecha" : "26/03/2019",
+    "hora" : "16:54:04",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawCQUV2PlYY2QfA2RA" : {
+    "accion" : "Consultó el CV de Carlos Manuel Pedroza Méndez",
+    "fecha" : "26/03/2019",
+    "hora" : "16:54:05",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawCRS6kk5LWEI37zcq" : {
+    "accion" : "Consultó datos de Hilda Lorena Castillo Lopez",
+    "fecha" : "26/03/2019",
+    "hora" : "16:54:09",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawCRv8CAeOz75WYa_I" : {
+    "accion" : "Consultó el CV de Hilda Lorena Castillo Lopez",
+    "fecha" : "26/03/2019",
+    "hora" : "16:54:11",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawCSayTQU5uR2BM5fY" : {
+    "accion" : "Consultó datos de la quince",
+    "fecha" : "26/03/2019",
+    "hora" : "16:54:13",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawCT-_b2dECVHU0_q8" : {
+    "accion" : "Consultó el CV de la quince",
+    "fecha" : "26/03/2019",
+    "hora" : "16:54:15",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawCj621rzxubG_yjA9" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "26/03/2019",
+    "hora" : "16:55:25",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawDDmAZL57aKFsdeHH" : {
+    "accion" : "Panel de la gráfica Donut para [ Puesto al que aplica ]",
+    "fecha" : "26/03/2019",
+    "hora" : "16:57:35",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawDEBQ0IjJOjBZqGHJ" : {
+    "accion" : "Tab de Gráficas de Profesiones",
+    "fecha" : "26/03/2019",
+    "hora" : "16:57:37",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawDE_3k-OSfpHYE4rv" : {
+    "accion" : "Panel de la gráfica Pie para [ Profesiones ]",
+    "fecha" : "26/03/2019",
+    "hora" : "16:57:38",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawDEsvEIMZ1clctwC4" : {
+    "accion" : "Tab de Gráficas de Puestos al que aplican",
+    "fecha" : "26/03/2019",
+    "hora" : "16:57:39",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawDFPeoZ6sMhHNA4_c" : {
+    "accion" : "Tab de Gráficas para fechas de aplicación",
+    "fecha" : "26/03/2019",
+    "hora" : "16:57:42",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawDFet_V51o6gTMthO" : {
+    "accion" : "Panel de la gráfica de líneas para [ Fechas de aplicación ]",
+    "fecha" : "26/03/2019",
+    "hora" : "16:57:43",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawDFraOT5AXrdZVOQb" : {
+    "accion" : "Tab de Gráficas de Estado Civil ",
+    "fecha" : "26/03/2019",
+    "hora" : "16:57:43",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawDG442rKi2Q70fMpZ" : {
+    "accion" : "Panel de la gráfica de Barras normal para [ Estado Civil agrupado por Sexo ]",
+    "fecha" : "26/03/2019",
+    "hora" : "16:57:44",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawDGAe3eQ_5i126qfW" : {
+    "accion" : "Panel de la gráfica de Barras apiladas para [ Estado Civil apilado por Sexo ]",
+    "fecha" : "26/03/2019",
+    "hora" : "16:57:45",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawDGI4uazc8PckO7cV" : {
+    "accion" : "Panel de la gráfica 3D para [ Estados Civiles agrupados por Sexo ]",
+    "fecha" : "26/03/2019",
+    "hora" : "16:57:45",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawDGoBKVzCX0KK-4JT" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "16:57:47",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawE2_fAJ1sxiOdeOD1" : {
+    "accion" : "Seleccionó la opción de Ingreso",
+    "fecha" : "26/03/2019",
+    "hora" : "17:01:11",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawE3w8VsfsDf-P9kMR" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "17:01:17",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawE4ENTSIYXXRgeblG" : {
+    "accion" : "Seleccionó la opción de Ingreso",
+    "fecha" : "26/03/2019",
+    "hora" : "17:01:18",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawEAgqjkcprnDrggD8" : {
+    "accion" : "Grabó el CV de la diez y nueve",
+    "fecha" : "26/03/2019",
+    "hora" : "17:01:44",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawECJWl8nxUcwCHlNm" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "17:01:51",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawED66x8pQnbWyQLfc" : {
+    "accion" : "Consultó datos de la diez y nueve",
+    "fecha" : "26/03/2019",
+    "hora" : "17:01:54",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawIHm5E9UqZ-NNRvVD" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "17:19:42",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawIID4JCOaBBBrIqUK" : {
+    "accion" : "Seleccionó la opción de Ingreso",
+    "fecha" : "26/03/2019",
+    "hora" : "17:19:44",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawIPmlMolQwmtb0Mez" : {
+    "accion" : "Grabó el CV de la veinte",
+    "fecha" : "26/03/2019",
+    "hora" : "17:20:15",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawITaGXAfMbjKpL1-O" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "17:20:30",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawIU4x92_2-fVywx6H" : {
+    "accion" : "Consultó datos de la veinte",
+    "fecha" : "26/03/2019",
+    "hora" : "17:20:32",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawIpmSjYJYdBzv_UVZ" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "17:22:05",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawIqzpmn5Q3XcNEJ5H" : {
+    "accion" : "Consultó datos de la diez y seis",
+    "fecha" : "26/03/2019",
+    "hora" : "17:22:10",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawIsMumP7SCieyBQiR" : {
+    "accion" : "Eliminó el CV de la diez y seis",
+    "fecha" : "26/03/2019",
+    "hora" : "17:22:16",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawIsqtXupEPLOqxPKe" : {
+    "accion" : "Consultó datos de la diez y siete",
+    "fecha" : "26/03/2019",
+    "hora" : "17:22:18",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawIu-1-Vo7ybo8Q4Vt" : {
+    "accion" : "Eliminó el CV de la diez y siete",
+    "fecha" : "26/03/2019",
+    "hora" : "17:22:23",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawIuF6ZnRLR4GTYCeU" : {
+    "accion" : "Consultó datos de la diez y ocho",
+    "fecha" : "26/03/2019",
+    "hora" : "17:22:24",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawIuyV8hGEH11bBNGj" : {
+    "accion" : "Eliminó el CV de la diez y ocho",
+    "fecha" : "26/03/2019",
+    "hora" : "17:22:27",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawIvDMGl_1ajjqLrfJ" : {
+    "accion" : "Consultó datos de la diez y nueve",
+    "fecha" : "26/03/2019",
+    "hora" : "17:22:28",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawIw-9kMw6YIKqAm1i" : {
+    "accion" : "Eliminó el CV de la diez y nueve",
+    "fecha" : "26/03/2019",
+    "hora" : "17:22:31",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawIwEhzls2bIGY2miZ" : {
+    "accion" : "Consultó datos de la veinte",
+    "fecha" : "26/03/2019",
+    "hora" : "17:22:32",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawJ2OvKPTcbqmMuWhl" : {
+    "accion" : "Eliminó el CV de Jorge Ernesto Rodriguez Funes",
+    "fecha" : "26/03/2019",
+    "hora" : "17:23:01",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawJ47vl3nPSL2VMpIy" : {
+    "accion" : "Consultó datos de la quince",
+    "fecha" : "26/03/2019",
+    "hora" : "17:23:08",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawJ5H0WLklfVwUkfZz" : {
+    "accion" : "Eliminó el CV de la quince",
+    "fecha" : "26/03/2019",
+    "hora" : "17:23:13",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawJ5__XjugnFFoCs9g" : {
+    "accion" : "Consultó datos de la veinte",
+    "fecha" : "26/03/2019",
+    "hora" : "17:23:14",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawJ6H6WoX0tACQiUKC" : {
+    "accion" : "Eliminó el CV de la veinte",
+    "fecha" : "26/03/2019",
+    "hora" : "17:23:17",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawJ7Dz2gysfg4bJ9oG" : {
+    "accion" : "Eliminó el CV de catorce",
+    "fecha" : "26/03/2019",
+    "hora" : "17:23:21",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawJ7Tr4A2zQydSASuk" : {
+    "accion" : "Consultó datos de catorce",
+    "fecha" : "26/03/2019",
+    "hora" : "17:23:22",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawJ8LMv_UrpfjsqqA8" : {
+    "accion" : "Eliminó el CV de catorce",
+    "fecha" : "26/03/2019",
+    "hora" : "17:23:25",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LawJ9ORfETyZll4mNJC" : {
+    "accion" : "Eliminó el CV de Pedro Luis Armendaris",
+    "fecha" : "26/03/2019",
+    "hora" : "17:23:30",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxVgQXWJjnfci_iImo" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "22:57:52",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxVjkE-k8vxZ4RsMJc" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "22:58:06",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxVkO8WL_vLWv-ZU6K" : {
+    "accion" : "Seleccionó la opción de Ingreso",
+    "fecha" : "26/03/2019",
+    "hora" : "22:58:08",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxVkawk2kJvBCH4DG0" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "22:58:09",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxVoHdN-0PYt_Ki6lr" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "22:58:24",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxVvX7rc2da6ctrA6Q" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "26/03/2019",
+    "hora" : "22:58:54",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxVws9SzqO0hQ_ePjv" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "22:58:59",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWKpdgNK1u2_hQOF5" : {
+    "accion" : "Consultó datos de Luz del Milagro Fernández Gonzalez",
+    "fecha" : "26/03/2019",
+    "hora" : "23:00:42",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWLLfygtN_52ykXTt" : {
+    "accion" : "Consultó datos de Mario René Calderón Fuentes",
+    "fecha" : "26/03/2019",
+    "hora" : "23:00:44",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWLgduLhgfrYbq_Xb" : {
+    "accion" : "Consultó datos de Ingrid María Recinos Acajabón",
+    "fecha" : "26/03/2019",
+    "hora" : "23:00:45",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWM-CUi5AYOSuAsx1" : {
+    "accion" : "Consultó datos de Karla Sofía Pérez Sánchez",
+    "fecha" : "26/03/2019",
+    "hora" : "23:00:46",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWMH0n9ATQWzGkzPJ" : {
+    "accion" : "Consultó datos de Carlos Manuel Pedroza Méndez",
+    "fecha" : "26/03/2019",
+    "hora" : "23:00:48",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWPr8bgrbSNcGgPgz" : {
+    "accion" : "Consultó datos de Pedro Luis Armendaris",
+    "fecha" : "26/03/2019",
+    "hora" : "23:01:02",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWTipF4JbTfbdIZ0m" : {
+    "accion" : "Consultó datos de Eva María Londoño Figueroa",
+    "fecha" : "26/03/2019",
+    "hora" : "23:01:18",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWUJ3_cQdaFUTjs-K" : {
+    "accion" : "Consultó datos de Pedro Luis Armendaris",
+    "fecha" : "26/03/2019",
+    "hora" : "23:01:20",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWWy_B4656oLJM1uR" : {
+    "accion" : "Consultó datos de Luz del Milagro Fernández Gonzalez",
+    "fecha" : "26/03/2019",
+    "hora" : "23:01:31",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWX8lp9fH-ibMBjSl" : {
+    "accion" : "Consultó datos de Mario René Calderón Fuentes",
+    "fecha" : "26/03/2019",
+    "hora" : "23:01:32",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWXJmk5fyouA--Ict" : {
+    "accion" : "Consultó datos de Ingrid María Recinos Acajabón",
+    "fecha" : "26/03/2019",
+    "hora" : "23:01:33",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWXTpbq5PysIDQGYt" : {
+    "accion" : "Consultó datos de Karla Sofía Pérez Sánchez",
+    "fecha" : "26/03/2019",
+    "hora" : "23:01:33",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWXcfqLngW36bP5GS" : {
+    "accion" : "Consultó datos de Carlos Manuel Pedroza Méndez",
+    "fecha" : "26/03/2019",
+    "hora" : "23:01:34",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWYJJn34YzV-rHo5X" : {
+    "accion" : "Consultó datos de Lucía Lucrecia Hernández Perdómo",
+    "fecha" : "26/03/2019",
+    "hora" : "23:01:37",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWYTiCRcUR1MdQ--i" : {
+    "accion" : "Consultó datos de Jorge Mario Cifuentes Aquino",
+    "fecha" : "26/03/2019",
+    "hora" : "23:01:38",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWYe4Qqzznmc___vt" : {
+    "accion" : "Consultó datos de Rodrigo Paúl Gutierrez Morales",
+    "fecha" : "26/03/2019",
+    "hora" : "23:01:38",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWYrXzkyutg1_Gud-" : {
+    "accion" : "Consultó datos de Mario Enrique Sosa Higueros",
+    "fecha" : "26/03/2019",
+    "hora" : "23:01:39",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWZ2qLkvSUQHSbxtV" : {
+    "accion" : "Consultó datos de Hilda Lorena Castillo Lopez",
+    "fecha" : "26/03/2019",
+    "hora" : "23:01:40",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWZton79fHdOfElZR" : {
+    "accion" : "Consultó datos de Eva María Londoño Figueroa",
+    "fecha" : "26/03/2019",
+    "hora" : "23:01:43",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxW_5edyI896Y0XLPR" : {
+    "accion" : "Consultó datos de Pedro Luis Armendaris",
+    "fecha" : "26/03/2019",
+    "hora" : "23:01:44",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWj86tFLW1QaRUWto" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "23:02:25",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWyxhzeOdqbpVwtcK" : {
+    "accion" : "Consultó datos de Luz del Milagro Fernández Gonzalez",
+    "fecha" : "26/03/2019",
+    "hora" : "23:03:30",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWz9Stf8dTOqCphJx" : {
+    "accion" : "Consultó datos de Mario René Calderón Fuentes",
+    "fecha" : "26/03/2019",
+    "hora" : "23:03:31",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWzZEOZEuyKYuwaTQ" : {
+    "accion" : "Consultó datos de Ingrid María Recinos Acajabón",
+    "fecha" : "26/03/2019",
+    "hora" : "23:03:33",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxWzmj106Oy0gfd11v" : {
+    "accion" : "Consultó datos de Karla Sofía Pérez Sánchez",
+    "fecha" : "26/03/2019",
+    "hora" : "23:03:33",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxX-40gHHvUrwtC7kd" : {
+    "accion" : "Consultó datos de Carlos Manuel Pedroza Méndez",
+    "fecha" : "26/03/2019",
+    "hora" : "23:03:35",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxX-a2dn0yEZ5NJjAL" : {
+    "accion" : "Consultó datos de Luz del Milagro Fernández Gonzalez",
+    "fecha" : "26/03/2019",
+    "hora" : "23:03:37",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxX2Fj-CfQ1KumS_54" : {
+    "accion" : "Consultó datos de Mario René Calderón Fuentes",
+    "fecha" : "26/03/2019",
+    "hora" : "23:03:48",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxX2dxXsbqAkb1N4Ul" : {
+    "accion" : "Consultó datos de Ingrid María Recinos Acajabón",
+    "fecha" : "26/03/2019",
+    "hora" : "23:03:49",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxX37lvX0Mu9jZNE5C" : {
+    "accion" : "Consultó datos de Karla Sofía Pérez Sánchez",
+    "fecha" : "26/03/2019",
+    "hora" : "23:03:51",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxXYPYyB_qX2wgCOMb" : {
+    "accion" : "Consultó datos de Mario René Calderón Fuentes",
+    "fecha" : "26/03/2019",
+    "hora" : "23:05:59",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxXYgfrdzpJO8QzxF3" : {
+    "accion" : "Consultó datos de Ingrid María Recinos Acajabón",
+    "fecha" : "26/03/2019",
+    "hora" : "23:06:01",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxXZ-JT82oTnM-f_6-" : {
+    "accion" : "Consultó datos de Karla Sofía Pérez Sánchez",
+    "fecha" : "26/03/2019",
+    "hora" : "23:06:02",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxXZNRFKgoc78xrCsy" : {
+    "accion" : "Consultó datos de Carlos Manuel Pedroza Méndez",
+    "fecha" : "26/03/2019",
+    "hora" : "23:06:03",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxXyYp0XOG5BVAYcKY" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "26/03/2019",
+    "hora" : "23:07:51",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxYQM7FJGffgQEt2Vn" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "26/03/2019",
+    "hora" : "23:09:49",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxZhKbur2rt2hf0ulL" : {
+    "accion" : "Tab de Gráficas de Profesiones",
+    "fecha" : "26/03/2019",
+    "hora" : "23:15:24",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxZhjE5W9v1OhUPWmY" : {
+    "accion" : "Panel de la gráfica Pie para [ Profesiones ]",
+    "fecha" : "26/03/2019",
+    "hora" : "23:15:26",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxZi-Qvdr4AVNX-ynD" : {
+    "accion" : "Tab de Gráficas de Estado Civil ",
+    "fecha" : "26/03/2019",
+    "hora" : "23:15:27",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxZiDMg-2PVrOjMx4B" : {
+    "accion" : "Panel de la gráfica de Barras normal para [ Estado Civil agrupado por Sexo ]",
+    "fecha" : "26/03/2019",
+    "hora" : "23:15:28",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxZiM6MngPoImSygNu" : {
+    "accion" : "Panel de la gráfica de Barras apiladas para [ Estado Civil apilado por Sexo ]",
+    "fecha" : "26/03/2019",
+    "hora" : "23:15:29",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaxZiUEFc9BexePIXMK" : {
+    "accion" : "Panel de la gráfica 3D para [ Estados Civiles agrupados por Sexo ]",
+    "fecha" : "26/03/2019",
+    "hora" : "23:15:29",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LazlqqgJrBZT2o5mCQN" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "27/03/2019",
+    "hora" : "9:32:06",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Lazlrd0mqpVTSXPIqxH" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "27/03/2019",
+    "hora" : "9:32:09",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Lazlsso5LHGfhXSUgh0" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "27/03/2019",
+    "hora" : "9:32:14",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LazluPKuw40mlnGLprD" : {
+    "accion" : "Consultó datos de Pedro Luis Armendaris",
+    "fecha" : "27/03/2019",
+    "hora" : "9:32:20",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaznwOB4T0abjHNlGLa" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "27/03/2019",
+    "hora" : "9:41:13",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LaznwXo8i4swe-VIvt6" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "27/03/2019",
+    "hora" : "9:41:13",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LazoIu9wpIeWF9Nme5A" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "27/03/2019",
+    "hora" : "9:42:49",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LazoJ-d0a0cKAxPFCpF" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "27/03/2019",
+    "hora" : "9:42:49",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LazoJAW5mmaoTeeiPwq" : {
+    "accion" : "Seleccionó la opción de Gráficas",
+    "fecha" : "27/03/2019",
+    "hora" : "9:42:50",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LazoKDjU-olMLWPGPmQ" : {
+    "accion" : "Tab de Gráficas de Estado Civil ",
+    "fecha" : "27/03/2019",
+    "hora" : "9:42:54",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LazoKe_JZ5v-_GDBzmr" : {
+    "accion" : "Panel de la gráfica de Barras normal para [ Estado Civil agrupado por Sexo ]",
+    "fecha" : "27/03/2019",
+    "hora" : "9:42:56",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LazoLCn1JVClo8ZQ_KR" : {
+    "accion" : "Panel de la gráfica de Barras apiladas para [ Estado Civil apilado por Sexo ]",
+    "fecha" : "27/03/2019",
+    "hora" : "9:42:59",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LazoLZG-x2h79LGSwco" : {
+    "accion" : "Panel de la gráfica 3D para [ Estados Civiles agrupados por Sexo ]",
+    "fecha" : "27/03/2019",
+    "hora" : "9:43:00",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-LazoLnr8f2Mp0AWizaY" : {
+    "accion" : "Panel de la gráfica de Barras normal para [ Estado Civil agrupado por Sexo ]",
+    "fecha" : "27/03/2019",
+    "hora" : "9:43:01",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Lazp5fcOMMkjQUucU6o" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "27/03/2019",
+    "hora" : "9:46:17",
+    "usuario" : "Juan Carlos Jocop"
+  },
+  "-Lb--xKcIJuQyPnOBlky" : {
+    "accion" : "Seleccionó la opción de Consultas",
+    "fecha" : "27/03/2019",
+    "hora" : "10:38:04",
+    "usuario" : "Juan Carlos Jocop"
+  }
+]
